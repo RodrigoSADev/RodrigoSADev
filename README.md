@@ -1,14 +1,16 @@
-### Olá, tudo bem? Sou Rodrigo Silva de Almeida 👋
+### Olá, tudo bem? Me chamo Rodrigo Silva de Almeida, Desenvolvedor Web Júnior 👋
 
 - 🔭 Trabalho atualmente como Estagiário desenvolvendo em  PHP
 - 🌱 Estudando o ecossistema JavaScript (TypeScript, React, Node)
 - 💬 Contate-me no email: rodrigosalmeida2050@gmail.com
 
-<div>
+<div style="display: inline_block"></br>
   <a href="https://github.com/RodrigoS2050">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RodrigoS2050&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoS2050&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+## Tecnologias
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
