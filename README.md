@@ -24,7 +24,7 @@
   
 <div>
   <a href="https://www.linkedin.com/in/rodrigo-silva-86044a224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://brave-fermat-2fceeb.netlify.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+  <a href="https://rodrigo-silva-dev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
   
 ![Snake animation](https://github.com/RodrigoS2050/RodrigoS2050/blob/output/github-contribution-grid-snake.svg)
