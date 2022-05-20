@@ -1,7 +1,7 @@
 ### Olá, tudo bem? Me chamo Rodrigo Silva de Almeida, Desenvolvedor Web Júnior 👋
 
 - 🔭 Trabalho atualmente como Estagiário desenvolvendo em  PHP
-- 🌱 Estudando o ecossistema Front-End do JavaScript (TypeScript, ReactJs, NextJs)
+- 🌱 Estudando UI / UX Design & Front-End
 - 💬 Contate-me no email: rodrigosalmeida2050@gmail.com
 
 <div style="display: flex"></br>
