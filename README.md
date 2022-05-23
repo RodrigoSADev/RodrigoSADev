@@ -1,7 +1,7 @@
 ### Olá, tudo bem? Me chamo Rodrigo Silva de Almeida, Desenvolvedor Web Júnior 👋
 
 - 🔭 Trabalho atualmente como Estagiário desenvolvendo em  PHP
-- 🌱 Estudando UI Design & Front-End
+- 🌱 Estudando UI Design & Front-End na Origamid
 - 💬 Contate-me no email: rodrigosalmeida2050@gmail.com
 
 <div style="display: flex"></br>
