@@ -1,4 +1,4 @@
-### Olá, tudo bem? Me chamo Rodrigo Silva de Almeida, Desenvolvedor Web Júnior 👋
+### Olá, tudo bem? Me chamo Rodrigo Silva de Almeida, Desenvolvedor Front End Júnior & UI Design 👋
 
 - 🔭 Trabalho atualmente como Estagiário desenvolvendo em  PHP
 - 🌱 Estudando UI Design & Front-End na Origamid
