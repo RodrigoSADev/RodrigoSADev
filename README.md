@@ -1,7 +1,6 @@
 ### Olá, tudo bem? Me chamo Rodrigo Silva de Almeida, Desenvolvedor Front End Júnior 👋
 
-- 🔭 Trabalho atualmente como Estagiário desenvolvendo em  HTML, CSS, JavaScript & PHP
-- 🌱 Estudando para me tornar um Desenvolvedor Front End
+- 🔭 Trabalho atualmente como Desenvolvedor Front End Júnior utilizindo Angular, TypeScript & NgRx
 - 💬 Contate-me no email: rodrigosalmeida2050@gmail.com
 
 <div style="display: flex"></br>
