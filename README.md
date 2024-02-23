@@ -5,7 +5,7 @@
 
 <div style="display: flex"></br>
   <a href="https://github.com/RodrigoS2050">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigos2050&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosadev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 ## Tecnologias
