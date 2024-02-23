@@ -1,7 +1,7 @@
 ### Olá, tudo bem? Me chamo Rodrigo Silva de Almeida, Desenvolvedor Front End 👋
 
 - 🔭 Trabalho atualmente como Desenvolvedor Front End Júnior utilizando Angular, TypeScript, Sass, NgRx, Karma & Jasmine.
-- 💬 Contate-me no email: rodrigosalmeida2050@gmail.com
+- 💬 Contate-me no email: rodrigosalmeidadev@gmail.com
 
 <div style="display: flex"></br>
   <a href="https://github.com/RodrigoS2050">
