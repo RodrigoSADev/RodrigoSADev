@@ -4,7 +4,7 @@
 - 💬 Contate-me no email: rodrigosalmeidadev@gmail.com
 
 <div style="display: flex"></br>
-  <a href="https://github.com/RodrigoS2050">
+  <a href="https://github.com/RodrigoSADev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosadev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
