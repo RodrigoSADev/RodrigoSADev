@@ -20,5 +20,5 @@
   <img align="center" alt="Rodrigo-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rodrigo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Rodrigo-Karma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/karma/karma-original.svg" />
-  <img align="center" alt="Rodrigo-Jasmine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" />
+  <img align="center" alt="Rodrigo-Jasmine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original.svg" /
 </div>
