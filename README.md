@@ -1,6 +1,6 @@
 ### Olá, tudo bem? Me chamo Rodrigo Silva de Almeida, Desenvolvedor Front End 👋
 
-- 🔭 Trabalho atualmente como Desenvolvedor Front End Júnior utilizando Angular.
+- 🔭 Trabalho atualmente como Desenvolvedor Front End utilizando Angular.
 - 💬 Contate-me no email: rodrigosalmeidadev@gmail.com
 
 <div style="display: flex"></br>
