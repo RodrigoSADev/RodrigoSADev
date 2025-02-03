@@ -4,9 +4,10 @@
 
 ## About Me
 
+- 🏆 Over **2 years of experience** in frontend development
 - 🎯 Specialized in **Angular**, TypeScript, and modern frontend technologies
-- 🏗️ Experienced in building and maintaining dynamic UIs with a focus on performance and scalability
-- 🔄 Skilled in state management, API integrations, and responsive design
+- 🏗️ Experienced in **building and maintaining** dynamic UIs with a focus on **performance and scalability**
+- 🔄 Skilled in **state management**, **API integrations**, and **responsive design**
 - 📚 Always learning and exploring new technologies to improve my skill set
 
 ## Tech Stack
