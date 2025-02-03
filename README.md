@@ -1,11 +1,11 @@
-# Hi there! I'm a Frontend Developer
+# Rodrigo Silva de Almeida
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigos-almeida/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rodrigosalmeidadev@gmail.com)
+I'm a passionate **Frontend Developer** with a strong focus on **Angular** and building dynamic, scalable, and user-friendly web applications.
 
 ## About Me
 
 - 🏆 Over **2 years of experience** in frontend development
-- 🎯 Specialized in **Angular**, TypeScript, and modern frontend technologies
+- 🎯 Specialized in **Angular**, **TypeScript**, **RxJS** and modern frontend technologies
 - 🏗️ Experienced in **building and maintaining** dynamic UIs with a focus on **performance and scalability**
 - 🔄 Skilled in **state management**, **API integrations**, and **responsive design**
 - 📚 Always learning and exploring new technologies to improve my skill set
