@@ -16,6 +16,6 @@ Sou um desenvolvedor Frontend apaixonado, com forte foco em Angular e na cria√ß√
 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,typescript,rxjs,bootstrap,sass,jest,cypress,git,aws" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,typescript,rxjs,bootstrap,sass,jest,cypress,git,aws" />
   </a>
 </p>
